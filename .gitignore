@@ -1,4 +1,4 @@
 echo "__pycache__/" >> .gitignore
 echo "*.pyc" >> .gitignore
 echo "venv/" >> .gitignore
-echo ".DS_Store" >> .gitignore  # Mac-specifik
+echo ".DS_Store" >> .gitignore
