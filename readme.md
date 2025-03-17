@@ -17,7 +17,7 @@ To run a vulnerability scan, use:
 python scanner.py <URL>
 ```
 
-Important Notice
+## Important Notice
 This tool is strictly for educational and legal penetration testing purposes only.
 Do not use this scanner on websites you do not own or do not have explicit permission to test.
 
