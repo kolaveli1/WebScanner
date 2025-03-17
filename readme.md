@@ -15,6 +15,7 @@ This tool scans a given URL for security vulnerabilities and tests for the follo
 To run a vulnerability scan, use:
 ```sh
 python scanner.py <URL>
+```
 
 Important Notice
 This tool is strictly for educational and legal penetration testing purposes only.
